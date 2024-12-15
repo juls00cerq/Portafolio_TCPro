@@ -22,7 +22,7 @@ ______
   
 ### Vista Previa
 ![Proyecto](/Assets/portafolio1Captura.PNG)
-![Proyecto](/Assets/Portafolio2Captura.PNG)
+![Proyecto](/Assets/portafolio2Captura.PNG)
 ![Proyecto](Assets/portafolio3Captura.PNG)
 
 ### *Espero pronto saber de ti*
